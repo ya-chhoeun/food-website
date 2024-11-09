@@ -1,0 +1,8 @@
+nav {
+  display: flex;
+  background-color: burlywood;
+}
+nav .logo {
+  width: 30%;
+  height: 5vh;
+}/*# sourceMappingURL=home.css.map */
